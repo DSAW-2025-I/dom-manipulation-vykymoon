@@ -1,7 +1,7 @@
 const imagenes = [
-    "/assets/image_1.jpg",
-    "/assets/image_2.jpeg",
-    "/assets/image_3.jpeg",
+    "./assets/image_1.jpg",
+    "./assets/image_2.jpeg",
+    "./assets/image_3.jpeg",
 ];
 
 let indiceActual = 0;
